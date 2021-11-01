@@ -1,3 +1,4 @@
+//
 import java.util.Scanner;
 public class HelloWorld {
 	public static void main(String[] args) {
@@ -7,7 +8,7 @@ public class HelloWorld {
         	System.out.println("You entered: " + number);
     }
 }
-
+//
 class Main {
 
   public static void main(String[] args) {
