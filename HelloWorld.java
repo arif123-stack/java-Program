@@ -8,7 +8,7 @@ public class HelloWorld {
         	System.out.println("You entered: " + number);
     }
 }
-//
+//program
 class Main {
 
   public static void main(String[] args) {
