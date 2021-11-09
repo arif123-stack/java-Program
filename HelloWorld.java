@@ -1,4 +1,4 @@
-//program for enter a number
+//program for enter a number. 
 import java.util.Scanner;
 public class HelloWorld {
 	public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class HelloWorld {
         	System.out.println("You entered: " + number);
     }
 }
-//program of additions
+//program of additions. 
 class Main {
 
   public static void main(String[] args) {
