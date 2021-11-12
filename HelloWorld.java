@@ -25,7 +25,7 @@ class Main {
   }
 }
 
-//program 
+//program of even and prime number
 public class Main {
 
   public static void main(String[] args) {
