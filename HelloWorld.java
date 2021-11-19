@@ -59,7 +59,7 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
-//programs of
+//programs of the ASCII Value
 public class AsciiValue {
 
     public static void main(String[] args) {
