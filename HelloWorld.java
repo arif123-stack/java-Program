@@ -59,12 +59,12 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
-//programs of the ASCII Value
+//programs of the ASCII Value. 
 public class AsciiValue {
 
     public static void main(String[] args) {
 
-        char ch = 'a';
+        char ch = 'A';
         int ascii = ch;
         // You can also cast char to int
         int castAscii = (int) ch;
