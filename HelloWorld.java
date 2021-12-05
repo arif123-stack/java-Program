@@ -258,7 +258,7 @@ public class MultiplicationTable {
         }
     }
 }
-//program
+//programs of fibonacci series
 class Main {
   public static void main(String[] args) {
 
@@ -275,3 +275,5 @@ class Main {
     }
   }
 }
+
+
